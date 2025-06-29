@@ -15,7 +15,7 @@ If your on a Wayland Desktop or tiling manager like KDE Plasma, Gnome, Cosmic, L
 ![amd-logo-white-png-5773-1024x245-601490339](https://github.com/user-attachments/assets/57cea371-7a50-4b67-9d80-5b9457826bc9)
 
 
-On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
+On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver which is the vulkan api for gaming on AMD, please use atleast kernel 6.12 or higher and mesa 23.1 or higher, If on rdna3 or 4 it is best be running the latest kernel and mesa for best compatibilty with gaming in general.
 
 If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, garuda, endeavour os, cachyos, pikaos, nobara, chimeraos, steamfork, Fedora silverblue, Nixos, or even Gentoo make sure you are using the newest kernel and mesa that is available for your distro
 
