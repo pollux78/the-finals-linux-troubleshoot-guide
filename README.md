@@ -23,7 +23,7 @@ If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite,
 ![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
 
 
-Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
+Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver below anything Tiger Lake integrated graphics and newer, or a discrete graphics card, If above you will use the XE kernel driver instead which is intel's new kernel driver.
 
 -----------------------------------
 
@@ -34,7 +34,9 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 ## PROTON
 
-Please use Proton experimental, This has all of the latest patches from valve for THE FINALS, do NOT use experimental (bleeding edge) unless there is a major change that requires you to use it, You can also use Proton 10 beta
+Please use Proton experimental, This has all of the latest patches from valve for THE FINALS, do NOT use experimental (bleeding edge) unless there is a major change that requires you to use it, You can also use Proton 10.
+
+Valve will force proton hotfix sometimes on everyone for quick patches on games if they cant bring the patches into experimental, should NOT be used for daily use tho on every game.
 
 ![image](https://github.com/user-attachments/assets/aeddad67-382d-43bd-a2f5-401541fbd00c)
 
