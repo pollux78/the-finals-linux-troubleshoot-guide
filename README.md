@@ -7,7 +7,7 @@
 ![nvlogo_white-1538839930](https://github.com/user-attachments/assets/5e0ce5f1-d399-4262-a72f-994a55811854)
 
 
-If your on Nvidia please use the Nvidia driver that is provided by your Distro
+If you are on Nvidia please use the Nvidia driver that is provided by your Distro, If you experience heavy stuttering after shader compilation on rtx 40/50 series please use PROTON_HIDE_NVIDIA_GPU=1 %command% as the launch command, this will remove dlss and reflex low latency tho and wil behave like a amd gpu in the game.
 
 If your on a Wayland Desktop or tiling manager like KDE Plasma, Gnome, Cosmic, Lxqt, Budgie, elementary os, sway, hyprland, wayfire, river, please use the latest nvidia driver like 555 or 560 or newer
 
