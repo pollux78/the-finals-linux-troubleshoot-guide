@@ -23,7 +23,7 @@ If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite,
 ![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
 
 
-Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver below anything Tiger Lake integrated graphics and newer, or a discrete graphics card, If above you will use the XE kernel driver instead which is intel's new kernel driver.
+Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver below anything Tiger Lake integrated graphics, or a discrete graphics card, If above you will use the XE kernel driver instead which is intel's new kernel driver.
 
 -----------------------------------
 
